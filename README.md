@@ -6,8 +6,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Uqj_E7boAd6vYnUIQVDyDizDsAj5lRV3/view?usp=sharing](https://drive.google.com/file/d/1Uqj_E7boAd6vYnUIQVDyDizDsAj5lRV3/view?usp=sharing)
 <img align="right" src=" https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 >Connect with me:</h3>
+<p >
 <a href="https://twitter.com/ankit_1308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit_1308" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-maurya-24728a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-maurya-24728a216/" height="30" width="40" /></a>
 </p>
